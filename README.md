@@ -24,4 +24,4 @@ python stock_prediction.py
 ```
 
 ## Note
-This code is a basic implementation for educational purposes. It may require further optimization for practical applications and accurate predictions. Additionally, consider using more advanced techniques and incorporating additional features for a more robust model.
+This code is a basic implementation for educational purposes. It may require further optimization for practical applications and accurate predictions.     Additionally, consider  using more advanced techniques and incorporating additional features for a more robust model.
